@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast</h3>    
 
 <p align="center">
-A 5th-semester Computer Science student exploring Data Science and Machine Learning. I’m passionate about understanding data, uncovering insights, and building skills step by step. Eager to grow my skills and explore the world of data science one step at a time 🔍
+A 5th-semester Computer Science student exploring Data Science and Machine Learning. I’m passionate about understanding data, uncovering insights, and building skills step by step. Eager to grow my skills and explore the world of data science one step at a time🔍
 </p>
 
 - 🌱 Currently learning Python, SQL, and foundational Data Science concepts  

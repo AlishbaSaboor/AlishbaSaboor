@@ -5,7 +5,7 @@
 A 5th-semester Computer Science student exploring Data Science and Machine Learning. I’m passionate about understanding data, uncovering insights, and building skills step by step. Eager to grow my skills and explore the world of data science one step at a time
 </p>
 
-- 🌱 Currently learning Python, SQL, and foundational Data Science concepts  
+- 🌱 Recently learned Python, SQL, and foundational Data Science concepts, and now taking the next learning step
 - 👯 Looking to collaborate on beginner-friendly and learning-focused projects  
 - 💬 Ask me about C++, Data Structures, and problem-solving techniques  
 - ⚡ Fun fact: I love solving puzzles and math problems in my free time  
